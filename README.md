@@ -15,7 +15,7 @@ This applet currently supports the following features:
 - Open your Drive folder location
 - Whitelist specific files/folders
   
-*NOTE: New features will be coming soon! Make sure to leave your feedback about what you like or what you like to see in the future updates!*
+*NOTE: New features will be coming soon! Make sure to leave your feedback about what you like or want to see in the future updates!*
 
 
 ## Usage Help
@@ -40,9 +40,6 @@ This applet currently supports the following features:
 
 - Your Drive location - this is the folder where Google Drive files and folders will be synced to.
 - Whitelisted folders - if you want to sync only specific files or folders from your Google Drive.
-
-*NOTE: The ticker refreshes by default every 30 minutes. Every refresh uses one credit per coin ticker, plan you montlhy
-credits limit accordingly!*
 
 ## Bugs/Feedback
 
